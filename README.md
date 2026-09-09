@@ -78,16 +78,68 @@ Customer plan selection was analysed overall and across age groups.
 
 ## Key Findings
 
-The final findings from the analysis will be documented here.
+- The dataset contained **516 records initially**. After removing
+  duplicate customer records using the documented most-recent-record
+  rule, **500 unique customer records** remained.
+- Missing regional information was a notable data-quality issue, with
+  **60 of the 500 records (12%)** having no region recorded.
+- Among records with a known region, **Asia-Pacific had the highest
+  proportion of incomplete records at 11.11%**, based on missing email,
+  signup date or age.
+- Customer sign-up activity increased noticeably from 2024 onwards,
+  although the presence of invalid and future dates means trends should
+  be interpreted with caution.
+- **August 2026** was the latest valid month with recorded signup
+  activity. Google generated the signup recorded during that month.
+  However, because only one signup was recorded, this result should not
+  be interpreted as evidence that Google was the best-performing
+  acquisition channel overall.
+- Marketing opt-in rates varied across age groups. The **18–24 group
+  had the highest opt-in rate at 68.42%**, while the **45–54 group had
+  the lowest at 30.00%** among the analysed age groups.
+- **Basic** was the most commonly selected plan overall, accounting for
+  **48% of customers**, followed by Pro at 36.8% and Premium at 15.2%.
+  Plan preferences also varied across age groups.
 
 ## Business Recommendations
 
-The final recommendations from the analysis will be documented here.
+- Improve data validation at the point of customer entry, particularly
+  for email addresses, ages, signup dates and regional information.
+- Strengthen duplicate-prevention controls so that repeated customer
+  records are identified before they enter reporting datasets.
+- Investigate the causes of missing regional information and improve
+  the collection of this field, as missing region data can affect
+  regional campaign and customer analysis.
+- Monitor acquisition sources over several complete reporting periods
+  before making investment decisions, using additional measures such as
+  conversion, acquisition cost and customer value rather than signup
+  volume alone.
+- Consider age-specific marketing approaches, particularly when
+  evaluating differences in marketing opt-in behaviour across customer
+  segments.
+- Further investigate plan preferences across age groups to determine
+  whether different customer segments respond differently to Basic,
+  Pro and Premium offerings.
 
 ## Data Limitations
 
 The analysis considers the limitations associated with missing,
 invalid and potentially anomalous records.
+
+In particular:
+
+- Two signup dates could not be used for time-based analysis because
+  they were invalid.
+- Future signup dates were identified and flagged rather than deleted,
+  as their validity could not be established from the available data.
+- Five implausible age values were treated as missing because there was
+  insufficient information to determine their correct values.
+- Missing regional information was retained where it could not be
+  reliably inferred.
+- The latest valid month contained only one recorded signup, so the
+  acquisition-source finding for that period has limited significance.
+- The dataset provides descriptive insights but does not establish
+  causal relationships between customer characteristics and behaviour.
 
 ## Project Files
 
