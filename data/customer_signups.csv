@@ -1,1 +1,517 @@
-
+customer_id,name,email,signup_date,source,region,plan_selected,marketing_opt_in,age,gender
+CU1239,Omar Williams,,2026-04-08,LinkedIn,Europe,Pro,No,34.0,Male
+CU1187,Joseph Taylor,joseph.taylor265@outlook.com,2024-10-28,Organic,Europe,Basic,Yes,18.0,Female
+CU1259,Ethan Andersson,ethan.andersson448@gmail.com,2026-04-07,Google,Europe,Pro,Yes,23.0,Male
+CU1350,Michael Anderson,michael.anderson623@outlook.com,2025-11-23,Referral,,Basic,Yes,18.0,Female
+CU1430,Robert Silva,robert.silva252@yahoo.com,2026-04-11,Google,North America,Basic,Yes,19.0,Female
+CU1337,Joseph Martinez,joseph.martinez211@company.io,2025-11-24,Organic,North America,Pro,No,32.0,Male
+CU1406,Wei Jones,wei.jones490_at_company.io,2025-04-23,Google,Asia-Pacific,Premium,Yes,50.0,Female
+CU1179,Emma Wilson,emma.wilson62@outlook.com,2024-11-05,Google,Europe,Pro ,Yes,18.0,Male
+CU1154,Richard Smith,richard.smith978@yahoo.com,2025-06-17,Organic,Middle East & Africa,Basic,No,26.0,Male
+CU1032,Fatima Okafor,fatima.okafor967@company.io,2025-01-06,Google,North America,Basic,No,48.0,Female
+CU1305,Aisha Chen,aisha.chen694@gmail.com,2025-04-16,Google,Europe,Basic,No,25.0,Female
+CU1089,Kwame Anderson,kwame.anderson309@outlook.com,2024-06-27,Google,North America,basic ,No,45.0,Other
+CU1146,Elizabeth Martin,elizabeth.martin631@company.io,2024-05-19,Referral,North America,Basic,Yes,27.0,Male
+CU1417,Lisa Garcia,lisa.garcia442@gmail.com,2026-05-15,Google,Latin America,Pro,Yes,46.0,Female
+CU1051,Jessica Jones,jessica.jones103@outlook.com,2024-11-09,Referral,Europe,Basic,No,18.0,Female
+CU1358,Sofia Khan,sofia.khan187@gmail.com,2025-02-16,Facebook,,PREMIUM,Yes,26.0,Female
+CU1352,Zara Jackson,zara.jackson450@gmail.com,2024-07-06,Referral,,Basic,No,20.0,Male
+CU1338,Robert Lee,robert.lee369@yahoo.com,2026-05-28,Referral,Asia-Pacific,Basic,No,55.0,Female
+CU1090,Zara Lee,zara.lee180@outlook.com,2024-12-03,Google,North America,Pro,No,31.0,Female
+CU1442,Ava Miller,ava.miller706@gmail.com,2026-04-22,Google,North America,Basic,No,39.0,Female
+CU1270,Thomas Davis,thomas.davis727@yahoo.com,2025-09-01,Facebook,Latin America,BASIC,Yes,35.0,Female
+CU1132,Amara Taylor,amara.taylor103@outlook.com,2024-11-10,Facebook,Europe,Premium,No,32.0,Female
+CU1421,Elena Taylor,elena.taylor346@company.io,2025-04-18,LinkedIn,Asia-Pacific,PRO,Yes,35.0,Female
+CU1488,Aisha Thomas,aisha.thomas10@yahoo.com,2025-11-27,Google,Asia-Pacific,pro,No,18.0,Female
+CU1109,Fatima Kowalski,fatima.kowalski870@company.io,2026-01-07,Google,Europe,Premium,No,41.0,Male
+CU1491,James Lee,,2026-03-30,Google,Latin America,Pro,Yes,31.0,Male
+CU1013,Linda Jones,linda.jones533@gmail.com,2025-07-27,Instagram,North America,Pro,Yes,29.0,male 
+CU1344,Charles Khan,charles.khan345@outlook.com,2026-02-01,Facebook,Middle East & Africa,Pro,No,31.0,Male
+CU1386,Olivia Jones,olivia.jones821@outlook.com,2025-04-10,Facebook,Middle East & Africa,Basic,No,38.0,Female
+CU1277,Emma Martin,emma.martin738@outlook.com,2025-03-29,Referral,North America,Pro,Yes,61.0,Male
+CU1258,John Novak,john.novak283@company.io,2024-09-07,Instagram,North America,Pro,No,38.0,Female
+CU1101,Patricia Kowalski,patricia.kowalski791@company.io,2024-12-21,Google,Asia-Pacific,Basic,No,31.0,Female
+CU1375,Priya Davis,priya.davis211@gmail.com,2025-02-06,Referral,Asia-Pacific,Basic,No,31.0,Female
+CU1412,Ingrid Moore,ingrid.moore663@outlook.com,2024-09-12,Organic,Europe,Pro,Yes,38.0,Male
+CU1050,Karen Patel,karen.patel425_at_company.io,2026-03-07,Referral,Middle East & Africa,Basic,Yes,18.0,Female
+CU1065,Patricia Chen,patricia.chen652@yahoo.com,2026-03-17,LinkedIn,Asia-Pacific,Premium,No,49.0,Male
+CU1168,Priya Silva,priya.silva858@outlook.com,2025-06-18,Instagram,,basic ,No,22.0,Female
+CU1025,Carlos Williams,carlos.williams621@yahoo.com,2025-11-11,Facebook,Europe,PRO,No,26.0,Male
+CU1278,Patricia Garcia,patricia.garcia760@gmail.com,2025-09-08,Google,Europe,Basic,Yes,41.0,Male
+CU1314,Elena Anderson,elena.anderson231@gmail.com,2026-01-22,Referral,North America,Premium,No,32.0,Male
+CU1138,Robert Williams,robert.williams410@yahoo.com,2025-04-21,Google,North America,Pro,Yes,33.0, female
+CU1293,Susan Andersson,susan.andersson227@gmail.com,2024-05-21,Google,,Basic,No,,FEMALE
+CU1236,Ingrid Kowalski,ingrid.kowalski125@outlook.com,2025-07-28,Facebook,Latin America,basic,Yes,30.0,Male
+CU1165,Priya Garcia,priya.garcia227@company.io,2026-01-28,Referral,,Basic,No,23.0,Male
+CU1253,David Thomas,david.thomas299@outlook.com,2024-12-31,Instagram,Europe,Pro,Yes,19.0,Male
+CU1403,Jennifer Hernandez,jennifer.hernandez583@company.io,2025-01-22,Facebook,Asia-Pacific,Basic,Yes,29.0,Male
+CU1204,Olivia Khan,olivia.khan672@yahoo.com,2026-01-22,LinkedIn,North America,Basic,No,37.0,Male
+CU1040,Amara Lee,amara.lee333@gmail.com,2025-07-17,LinkedIn,Middle East & Africa,Basic,No,24.0,male 
+CU1244,James Brown,james.brown448@company.io,2026-01-23,Referral,Latin America,Pro,Yes,20.0,MALE
+CU1300,Ethan Johnson,ethan.johnson652@gmail.com,2025-04-11,Referral,,Premuim,Yes,22.0,Male
+CU1427,Zara Silva,zara.silva131@outlook.com,2025-07-18,LinkedIn,Asia-Pacific,Basic,Yes,18.0,Male
+CU1245,Yuki Silva,yuki.silva302@outlook.com,2024-07-22,Google,Asia-Pacific,Basic,No,26.0,Male
+CU1453,Carlos Brown,carlos.brown482_at_yahoo.com,2024-10-12,Referral,Asia-Pacific,Pro,No,47.0,Male
+CU1249,Jennifer Kowalski,jennifer.kowalski475@outlook.com,2026-03-15,Google,North America,Basic,No,22.0,Female
+CU1249,Jennifer Kowalski,jennifer.kowalski475@outlook.com,2026-03-26,Google,North America,Basic,No,22.0,Female
+CU1490,Elena Jackson,elena.jackson575@gmail.com,2024-10-21,Facebook,Europe,basic ,No,44.0,Female
+CU1003,Patricia Martinez,patricia.martinez767@company.io,2025-07-24,Google,North America,Premium,No,37.0,FEMALE
+CU1200,Jessica Patel,jessica.patel921@company.io,2024-11-15,Facebook,Asia-Pacific,Basic,No,47.0,Female
+CU1220,Olivia Jones,olivia.jones516@yahoo.com,2025-11-30,LinkedIn,North America,Premium,Yes,51.0,Male
+CU1372,Ingrid Rodriguez,ingrid.rodriguez572@company.io,2026-04-22,Facebook,North America,Pro,No,34.0,Male
+CU1376,John Anderson,john.anderson512@gmail.com,2025-06-07,Instagram,North America,Premium,No,24.0,Male
+CU1478,Joseph Patel,joseph.patel879@outlook.com,2025-11-05,Google,Europe,Basic,Yes,20.0,Male
+CU1466,James Moore,james.moore920@outlook.com,2025-12-14,Instagram,Europe,Basic,Yes,19.0,Male
+CU1370,John Miller,john.miller986@yahoo.com,2024-12-27,Google,Latin America,pro,No,19.0,Male
+CU1162,Sofia Martinez,sofia.martinez68@company.io,2026-01-11,Facebook,Asia-Pacific,Basic,Yes,22.0,Male
+CU1470,Carlos Jackson,carlos.jackson902@gmail.com,2025-05-10,Instagram,Europe,Basic,Yes,42.0,Female
+CU1173,Susan Rodriguez,susan.rodriguez194@company.io,2024-09-24,Google,Asia-Pacific, pro,No,,Other
+CU1321,Yuki Okafor,yuki.okafor274@outlook.com,2025-01-23,Google,North America,Pro,Yes,19.0,Other
+CU1459,James Rodriguez,james.rodriguez590@gmail.com,2025-10-20,Facebook,Europe,Basic,Yes,18.0,female
+CU1147,Jennifer Okafor,jennifer.okafor567@company.io,2025-12-19,Organic,North America,PRO,No,28.0,Other
+CU1336,Ingrid Smith,ingrid.smith131@company.io,2024-03-26,Instagram,North America,Basic,No,22.0,male
+CU1212,Carlos Martinez,carlos.martinez571@yahoo.com,2025-12-23,Referral,North America,Basic,Yes,18.0,female
+CU1227,John Williams,john.williams396@company.io,2024-08-21,Google,Latin America,Premium,No,51.0,Female
+CU1296,William Ali,william.ali66@gmail.com,2025-10-09,LinkedIn,Europe,Basic,Yes,33.0,Female
+CU1475,Linda Chen,,2025-05-31,LinkedIn,Europe,Pro,Yes,22.0,Female
+CU1060,Ingrid Hernandez,ingrid.hernandez383@gmail.com,2024-08-02,Instagram,Latin America,Basic,Yes,34.0, female
+CU1360,Emma Taylor,emma.taylor162@outlook.com,2026-02-09,Facebook,Asia-Pacific,Basic,Yes,33.0,Male
+CU1118,Joseph Thomas,joseph.thomas628@yahoo.com,2024-12-15,Google,Europe,Premium,No,40.0,Female
+CU1120,Zara Moore,zara.moore614@outlook.com,2026-01-23,Instagram,Latin America,basic ,Yes,25.0,Female
+CU1145,Linda Jackson,linda.jackson958@company.io,2024-03-04,Google,,Pro,Yes,28.0,Male
+CU1330,Kwame Wilson,kwame.wilson37@outlook.com,2026-04-22,Google,Asia-Pacific,basic ,Yes,29.0,Female
+CU1082,James Chen,james.chen995@company.io,2026-04-01,Referral,North America,Premium,No,38.0,Male
+CU1468,Jennifer Davis,jennifer.davis707@yahoo.com,2024-12-04,Instagram,North America,Premium,Yes,25.0,Male
+CU1451,Mateo Khan,mateo.khan224@gmail.com,2026-01-23,Instagram,North America,Pro,No,18.0,Male
+CU1362,Sofia Rodriguez,sofia.rodriguez930@company.io,2026-02-21,LinkedIn,Asia-Pacific,Pro,Yes,,Male
+CU1263,Omar Khan,omar.khan199@yahoo.com,2025-02-25,Referral,North America,Pro,Yes,18.0,Female
+CU1367,Elena Martin,elena.martin613@gmail.com,2025-08-02,Facebook,Asia-Pacific,Pro,Yes,22.0,Male
+CU1445,Sarah Davis,sarah.davis478@gmail.com,2025-02-22,Instagram,,Pro,Yes,37.0,Female
+CU1115,Priya Brown,priya.brown100@company.io,2025-03-01,LinkedIn,Asia-Pacific,Basic,Yes,25.0,Female
+CU1467,Liam Wilson,liam.wilson225@company.io,2025-01-11,Google,Europe,Pro,Yes,39.0,Female
+CU1030,Aisha Ali,aisha.ali737@company.io,2025-05-13,Organic,Asia-Pacific,Basic,No,42.0,Male
+CU1022,Richard Okafor,richard.okafor579@company.io,2019-06-14,Instagram,Latin America,Basic,No,31.0,Male
+CU1267,Noah Jones,noah.jones231@outlook.com,2025-06-08,Instagram,Europe,Premium,Yes,56.0,Female
+CU1031,Charles Jones,,2025-08-15,Google,North America,Basic,Yes,19.0,Female
+CU1301,Charles Andersson,charles.andersson880@company.io,2025-05-15,Google,North America,basic,Yes,18.0,Female
+CU1243,Mary Chen,mary.chen289@yahoo.com,2026-02-08,Referral,Europe,Basic,No,63.0,Male
+CU1189,Carlos Khan,carlos.khan772@company.io,2026-01-13,Organic,Europe,Basic,No,44.0,Male
+CU1052,Jessica Silva,jessica.silva386@gmail.com,2025-01-18,Referral,Asia-Pacific,Pro,Yes,19.0,male 
+CU1492,Fatima Ali,fatima.ali68@outlook.com,2026-01-17,Organic,North America,Basic,No,47.0,Male
+CU1463,Elizabeth Johnson,elizabeth.johnson500@outlook.com,2025-10-23,Google,North America,Pro,Yes,18.0,Female
+CU1294,Mary Wilson,mary.wilson870@gmail.com,2025-11-18,Instagram,Europe,Pro,No,25.0,Female
+CU1499,Ingrid Khan,ingrid.khan407@outlook.com,2024-11-08,Instagram,,Basic,Yes,37.0,Female
+CU1113,Kwame Johnson,kwame.johnson800@company.io,2024-11-01,LinkedIn,,Basic,No,37.0,Other
+CU1056,Michael Smith,michael.smith111@yahoo.com,2024-08-20,LinkedIn,North America,Basic,Yes,18.0,Female
+CU1206,Emma Tanaka,emma.tanaka308@gmail.com,2025-06-05,Referral,North America,Pro,Yes,,FEMALE
+CU1002,Omar Jones,omar.jones742@yahoo.com,2025-01-07,Google,Europe,Pro,No,41.0,Female
+CU1058,Kwame Martin,kwame.martin475@gmail.com,2026-05-20,LinkedIn,Europe,Premium,No,29.0,Male
+CU1345,Zara Chen,zara.chen212@gmail.com,2025-01-08,Google,,Pro,No,37.0,Male
+CU1440,Richard Novak,richard.novak479@yahoo.com,2025-10-15,Google,,Pro,Yes,49.0,Male
+CU1424,Charles Patel,charles.patel783_at_outlook.com,2024-09-05,LinkedIn,Europe,Basic,Yes,23.0,Female
+CU1246,Michael Khan,michael.khan298@gmail.com,2026-03-15,Facebook,Middle East & Africa,Pro,No,45.0,Female
+CU1268,Carlos Moore,carlos.moore281@outlook.com,2025-02-25,Organic,Asia-Pacific,Basic,No,46.0,Female
+CU1228,Elizabeth Williams,elizabeth.williams582@outlook.com,2026-05-18,Instagram,North America,Premium,No,55.0,Male
+CU1074,Fatima Garcia,fatima.garcia839@company.io,2026-05-06,Organic,Europe,Pro,No,49.0,Female
+CU1364,Zara Moore,zara.moore902@yahoo.com,2024-05-10,Instagram,Europe,Pro,No,40.0,Female
+CU1439,Joseph Johnson,joseph.johnson337@company.io,2025-10-05,Instagram,Asia-Pacific,Pro,Yes,28.0,male
+CU1422,Karen Kowalski,karen.kowalski208@yahoo.com,2025-03-10,Facebook,Europe,Basic,No,22.0,Female
+CU1436,Emma Martin,,2025-05-05,Google,,Premium,Yes,18.0,Other
+CU1080,Ingrid Miller,ingrid.miller959@yahoo.com,2024-05-26,Organic,Europe,Pro,No,39.0,Female
+CU1248,Jennifer Wilson,jennifer.wilson38@gmail.com,2026-04-22,Instagram,Europe,Basic,Yes,34.0,Female
+CU1327,James Chen,james.chen377@company.io,2025-07-25,Instagram,Latin America,Premium,Yes,36.0,Female
+CU1026,John Williams,john.williams520@yahoo.com,2024-12-14,Instagram,Asia-Pacific,Basic,No,51.0,Female
+CU1188,Emma Tanaka,emma.tanaka800@company.io,2024-08-18,LinkedIn,Europe,Basic,No,42.0,Female
+CU1217,Ava Anderson,ava.anderson17@gmail.com,2025-02-06,Instagram,North America,Basic,Yes,18.0,Male
+CU1459,James Rodriguez,james.rodriguez590@gmail.com,2025-10-19,Facebook,Europe,Basic,Yes,18.0,female
+CU1354,Sofia Andersson,sofia.andersson330@outlook.com,2025-03-09,Instagram,North America,Pro,No,42.0,Female
+CU1365,Patricia Rodriguez,patricia.rodriguez41@yahoo.com,2026-02-19,Google,North America,Basic,Yes,33.0,Male
+CU1235,Michael Jones,michael.jones761@yahoo.com,2025-05-30,Instagram,Europe,Pro,Yes,23.0,Male
+CU1424,Charles Patel,charles.patel783_at_outlook.com,2024-09-11,LinkedIn,Europe,Basic,Yes,23.0,Female
+CU1108,Linda Lopez,,2025-09-09,Referral,North America, Basic,No,18.0,Male
+CU1014,Sarah Davis,sarah.davis6@company.io,2024-04-20,Google,Europe,Premium,Yes,49.0,Female
+CU1310,Mateo Patel,mateo.patel51@yahoo.com,2024-12-07,Facebook,Europe, Basic,No,37.0,Female
+CU1114,Wei Wilson,wei.wilson628@company.io,2026-03-27,Facebook,North America,Basic,No,,Female
+CU1446,Mateo Johnson,mateo.johnson206@company.io,2025-09-24,LinkedIn,Asia-Pacific,basic,Yes,40.0,Other
+CU1369,Joseph Hernandez,joseph.hernandez700@company.io,2025-03-26,Organic,North America,Pro ,Yes,,female
+CU1059,Priya Anderson,priya.anderson967@yahoo.com,2026-04-13,Facebook,Europe,Basic,Yes,40.0,Male
+CU1237,Charles Andersson,charles.andersson71@gmail.com,2026-05-05,LinkedIn,North America,Basic,Yes,18.0,Male
+CU1098,John Lopez,john.lopez532@gmail.com,2025-04-26,Referral,Asia-Pacific,Pro,No,24.0,Female
+CU1164,Joseph Taylor,joseph.taylor50@gmail.com,2025-12-27,Google,Middle East & Africa,pro,No,37.0,MALE
+CU1456,David Garcia,david.garcia423@outlook.com,2026-02-12,LinkedIn,Latin America,Basic,No,52.0,Male
+CU1041,Emma Lopez,emma.lopez328@gmail.com,2024-11-23,Google,Latin America,Basic,Yes,18.0,Female
+CU1271,Karen Okafor,karen.okafor61@outlook.com,2026-01-17,LinkedIn,Latin America,Pro,Yes,30.0,Male
+CU1380,Ingrid Jackson,ingrid.jackson516@gmail.com,2025-04-11,Referral,North America,Basic,No,18.0,Female
+CU1222,Fatima Smith,fatima.smith156@company.io,2025-06-28,Instagram,North America,Premium,No,46.0,Male
+CU1079,Richard Smith,richard.smith886@outlook.com,2026-05-15,Referral,North America,Premium,Yes,30.0,Female
+CU1028,Mateo Jones,mateo.jones87@company.io,2024-06-15,Organic,Asia-Pacific,Premium,No,34.0,Female
+CU1221,Yuki Johnson,yuki.johnson169@yahoo.com,2026-04-08,Referral,Latin America,Basic,Yes,18.0,Male
+CU1476,Ethan Ali,ethan.ali855@company.io,2025-10-04,Referral,North America,Basic,No,48.0,female
+CU1471,Olivia Thomas,olivia.thomas155@outlook.com,2026-04-12,Facebook,North America,Pro,Yes,18.0,Female
+CU1328,Ava Brown,ava.brown18@gmail.com,2025-10-09,Facebook,Latin America,Pro,Yes,39.0,male
+CU1057,Ingrid Martinez,ingrid.martinez247@company.io,2024-10-10,Google,,BASIC,Yes,35.0,Male
+CU1155,Patricia Andersson,patricia.andersson190@gmail.com,2024-09-17,Organic,Europe,BASIC,Yes,35.0,Male
+CU1062,Karen Jackson,karen.jackson132_at_outlook.com,2025-10-16,Google,Latin America,Pro,Yes,24.0,Male
+CU1388,Fatima Miller,fatima.miller331_at_outlook.com,2026-02-27,LinkedIn,Asia-Pacific,Pro,No,25.0,Male
+CU1111,Linda Lee,linda.lee174@yahoo.com,2025-07-24,Organic,North America,Basic,Yes,18.0,Female
+CU1084,Mary Wilson,mary.wilson401@yahoo.com,2025-03-06,Facebook,,Basic,Yes,29.0,Female
+CU1242,Zara Williams,zara.williams626@outlook.com,2025-02-03,Facebook,Europe,Premium,Yes,36.0,Male
+CU1216,Linda Chen,linda.chen7@outlook.com,2025-07-04,Instagram,North America,PRO,No,23.0,Male
+CU1159,Michael Patel,,2024-09-09,Instagram,North America,Basic,No,33.0,Male
+CU1202,Susan Lopez,,2024-10-17,Facebook,Europe,Basic,Yes,50.0,Female
+CU1129,Yuki Silva,yuki.silva98@outlook.com,2026-03-21,Instagram,,basic,No,44.0,Female
+CU1347,Mateo Patel,mateo.patel35@gmail.com,2025-12-22,Instagram,Europe,Pro,No,28.0,female
+CU1096,Noah Andersson,noah.andersson326@outlook.com,2026-01-10,Instagram,North America,Pro,No,48.0,Male
+CU1213,Robert Ali,robert.ali752@outlook.com,2026-02-11,Facebook,Europe,Pro,No,26.0,Male
+CU1302,Amara Novak,amara.novak413@gmail.com,2026-05-21,Google,Europe,Pro,No,38.0,Male
+CU1481,Jessica Martinez,jessica.martinez421@company.io,2026-01-20,Instagram,North America,Pro,No,49.0,Male
+CU1141,Thomas Ali,thomas.ali322@gmail.com,2025-06-28,Organic,Middle East & Africa,Pro,Yes,42.0,male 
+CU1465,Ingrid Ali,ingrid.ali816@yahoo.com,2026-04-19,Instagram,,Pro,Yes,42.0,Female
+CU1461,Linda Andersson,linda.andersson725@outlook.com,2025-06-08,Referral,North America,Premium,No,47.0,Other
+CU1232,Omar Patel,omar.patel97@company.io,2026-05-11,Google,North America,Basic,No,30.0,Female
+CU1355,Michael Thomas,michael.thomas237@yahoo.com,2025-01-20,Instagram,North America, pro,No,51.0,Male
+CU1363,Mateo Patel,,2025-02-23,Referral,Europe,PRO,Yes,,Male
+CU1408,Richard Martinez,richard.martinez300@outlook.com,2025-09-23,Instagram,North America,basic ,No,55.0,Male
+CU1256,Carlos Smith,carlos.smith247@yahoo.com,2026-05-10,Referral,North America,Premium,No,37.0,Female
+CU1484,John Chen,john.chen460@company.io,2026-01-29,Google,North America,Basic,No,47.0,Other
+CU1081,Joseph Anderson,joseph.anderson177@company.io,2025-05-12,Referral,North America,Premium,No,28.0,Female
+CU1308,Michael Lopez,michael.lopez335@outlook.com,2025-10-31,Instagram,Europe,Pro,Yes,26.0,Female
+CU1322,Karen Rodriguez,,2024-10-23,Facebook,Asia-Pacific,Basic,No,24.0,Female
+CU1472,Lisa Moore,lisa.moore964@yahoo.com,2025-04-08,Google,Middle East & Africa,Basic,Yes,44.0,Female
+CU1435,Linda Williams,linda.williams325@yahoo.com,2026-04-30,Google,,Basic,No,44.0,Male
+CU1273,Karen Hernandez,karen.hernandez352@gmail.com,2025-04-19,Instagram,Latin America,Pro,No,37.0,Female
+CU1193,Sofia Kowalski,sofia.kowalski326@outlook.com,2025-11-08,Google,Europe,Pro,No,50.0,Female
+CU1333,Lisa Lopez,lisa.lopez646@gmail.com,2024-04-16,Instagram,North America,Pro,Yes,33.0,Male
+CU1053,James Rodriguez,,2025-04-28,Organic,Asia-Pacific,Pro ,No,28.0,Male
+CU1171,James Williams,james.williams443@yahoo.com,2025-08-25,LinkedIn,,basic,No,34.0,Female
+CU1283,Ingrid Taylor,ingrid.taylor756@outlook.com,2026-04-30,Google,Latin America,Basic,Yes,18.0,Male
+CU1139,Kwame Smith,kwame.smith216@yahoo.com,2025-10-12,Instagram,Asia-Pacific,Pro,Yes,35.0,Female
+CU1274,Jennifer Garcia,jennifer.garcia203@gmail.com,2025-09-02,Google,Latin America,Basic,No,44.0,Male
+CU1389,Patricia Silva,patricia.silva774@outlook.com,2025-02-06,Instagram,North America,Pro,Yes,33.0,Female
+CU1066,Zara Lopez,zara.lopez804@yahoo.com,2025-05-07,Referral,Europe,Basic,Yes,30.0,Male
+CU1420,Susan Jones,susan.jones259@company.io,2026-01-13,Google,Asia-Pacific,Basic,No,27.0,Male
+CU1306,Fatima Okafor,fatima.okafor317@company.io,2025-11-18,Organic,Asia-Pacific,BASIC,Yes,22.0,Female
+CU1295,Michael Taylor,michael.taylor30_at_outlook.com,2026-01-11,Instagram,Europe,Basic,Yes,36.0,Female
+CU1238,Lisa Martinez,lisa.martinez47@gmail.com,2024-12-14,Organic,North America,Basic,No,47.0,Male
+CU1099,Zara Johnson,zara.johnson656@company.io,2025-10-20,Google,Asia-Pacific,Pro ,No,31.0,Female
+CU1284,Noah Johnson,noah.johnson425@company.io,2025-04-27,Organic,Middle East & Africa,Pro,No,20.0,Female
+CU1148,Liam Williams,liam.williams67@company.io,2026-02-26,Google,Asia-Pacific,Pro,No,45.0,Female
+CU1015,Lisa Taylor,lisa.taylor433@gmail.com,2025-08-31,Google,,Pro,Yes,20.0,Female
+CU1163,Olivia Johnson,olivia.johnson658@outlook.com,2025-10-18,Google,Latin America,Basic,No,40.0,Male
+CU1385,Charles Hernandez,charles.hernandez117@company.io,2025-04-21,LinkedIn,Europe,Pro,No,36.0,FEMALE
+CU1046,Mateo Lee,,2024-04-30,Instagram,North America,Pro,Yes,29.0,Other
+CU1086,Linda Wilson,linda.wilson210@gmail.com,2025-06-06,Facebook,Europe,Premium,No,50.0,Female
+CU1037,Elizabeth Tanaka,elizabeth.tanaka343@yahoo.com,2024-03-27,Facebook,Latin America,Basic,No,33.0,Female
+CU1423,Linda Jackson,linda.jackson501@outlook.com,2025-11-13,Referral,Europe,Basic,Yes,22.0,Female
+CU1371,Charles Miller,charles.miller798@gmail.com,2025-04-22,Facebook,Asia-Pacific,Basic,Yes,29.0,Male
+CU1384,Emma Garcia,emma.garcia414@yahoo.com,2026-01-06,Facebook,Europe,Basic,Yes,30.0,Female
+CU1269,Susan Andersson,susan.andersson321@company.io,2025-07-31,Facebook,North America,Pro,Yes,23.0,male 
+CU1326,Susan Smith,susan.smith444@yahoo.com,2025-03-28,Facebook,Europe,Basic,Yes,,Female
+CU1172,Patricia Moore,patricia.moore708@gmail.com,2025-12-19,Instagram,Asia-Pacific,Basic,No,22.0,Female
+CU1073,Emma Kowalski,emma.kowalski147@gmail.com,2025-10-31,Google,Latin America,Pro,No,39.0,Male
+CU1281,Liam Tanaka,liam.tanaka854@company.io,2024-10-23,LinkedIn,,Pro,No,29.0,Male
+CU1104,David Okafor,david.okafor415@company.io,2024-08-29,Instagram,Europe,BASIC,No,28.0,Other
+CU1264,Ingrid Chen,ingrid.chen340@outlook.com,2025-05-07,Referral,,basic,No,64.0,Female
+CU1405,Jessica Wilson,jessica.wilson651@outlook.com,2025-11-12,LinkedIn,Latin America,Basic,No,26.0,Female
+CU1016,Patricia Chen,patricia.chen825@gmail.com,2024-11-08,Organic,North America,Basic,No,31.0,Female
+CU1318,Sofia Khan,sofia.khan239@outlook.com,2026-03-04,Referral,North America,Basic,Yes,,Male
+CU1091,Sarah Okafor,sarah.okafor371@yahoo.com,2026-01-28,Google,Europe, Basic,Yes,18.0,Male
+CU1088,Jessica Garcia,jessica.garcia27@gmail.com,2024-07-21,Google,Europe,Pro,No,34.0,Female
+CU1387,Thomas Taylor,thomas.taylor695@yahoo.com,2025-11-19,Google,Europe,Basic,No,38.0,Male
+CU1140,Michael Chen,michael.chen492@company.io,2024-06-03,Google,Europe,Premium,No,44.0,Female
+CU1194,Lisa Johnson,lisa.johnson725@gmail.com,2025-08-09,Facebook,Latin America,Basic,No,18.0,Female
+CU1205,Emma Jones,emma.jones30@company.io,2025-08-01,Referral,Europe,Pro,Yes,22.0,Male
+CU1102,Amara Lopez,amara.lopez128@outlook.com,2025-06-15,Instagram,Latin America,Basic,No,38.0,Female
+CU1316,Lisa Ali,lisa.ali968@company.io,2026-04-14,Google,Asia-Pacific,Basic,Yes,42.0,Female
+CU1174,David Thomas,david.thomas240@outlook.com,2025-10-08,Referral,Latin America,Basic,Yes,25.0,male
+CU1170,Elena Moore,elena.moore996@company.io,2025-01-28,LinkedIn,Asia-Pacific,Pro,No,29.0,Other
+CU1429,Wei Jones,wei.jones986@yahoo.com,2024-10-06,Google,Europe,Pro,Yes,32.0,male
+CU1157,Kwame Martinez,kwame.martinez200@gmail.com,2025-11-16,Referral,North America,Basic,No,41.0,Male
+CU1452,Joseph Hernandez,joseph.hernandez834@gmail.com,2025-03-15,Instagram,Asia-Pacific,Pro,Yes,40.0,Other
+CU1070,Robert Novak,robert.novak375@yahoo.com,2026-02-28,Facebook,Asia-Pacific,BASIC,Yes,27.0,Female
+CU1133,Emma Martinez,emma.martinez827@gmail.com,2025-12-07,Organic,North America,Pro,Yes,23.0,Female
+CU1313,Karen Davis,karen.davis60@gmail.com,2025-02-16,Instagram,Europe,Basic,Yes,40.0,Female
+CU1384,Emma Garcia,emma.garcia414@yahoo.com,2026-01-24,Facebook,Europe,Basic,Yes,30.0,Female
+CU1479,Charles Anderson,charles.anderson81@company.io,2026-02-20,Instagram,,Premium,No,45.0,Female
+CU1240,Emma Garcia,emma.garcia27@gmail.com,2025-08-18,Google,North America,Basic,No,24.0,Female
+CU1261,Mary Smith,mary.smith79@company.io,2026-02-01,Facebook,Asia-Pacific,Basic,Yes,28.0,Other
+CU1340,Fatima Anderson,fatima.anderson771@yahoo.com,2025-03-30,Google,,basic ,Yes,28.0,Female
+CU1404,Yuki Silva,yuki.silva708@yahoo.com,2025-08-10,LinkedIn,Asia-Pacific,Pro,No,38.0,FEMALE
+CU1353,Karen Martinez,,2021-11-02,Google,,Pro,Yes,24.0,Female
+CU1396,Kwame Anderson,kwame.anderson637@yahoo.com,2025-02-24,Instagram,Asia-Pacific,Pro,Yes,28.0,Female
+CU1018,Jessica Taylor,jessica.taylor764@yahoo.com,2024-10-14,LinkedIn,Europe,Basic,No,19.0,Female
+CU1177,Elena Williams,elena.williams516@yahoo.com,2024-11-30,LinkedIn,North America,PRO,No,28.0,Male
+CU1394,Jennifer Kowalski,jennifer.kowalski761@company.io,2025-10-04,Google,North America,BASIC,Yes,23.0,Male
+CU1020,Linda Garcia,linda.garcia830@gmail.com,2025-09-05,Instagram,Latin America,Basic,Yes,37.0,Male
+CU1055,Liam Martinez,liam.martinez48@gmail.com,2024-08-04,Google,,Premium,Yes,41.0,Male
+CU1449,Carlos Lee,carlos.lee964@company.io,2025-12-16,Google,North America,BASIC,Yes,22.0,Female
+CU1433,Thomas Ali,,2026-01-17,Google,Middle East & Africa,Pro,No,40.0,Male
+CU1368,Jessica Anderson,jessica.anderson529@gmail.com,2025-12-31,Google,Asia-Pacific,Pro,Yes,65.0,Female
+CU1034,Sofia Garcia,sofia.garcia376@company.io,2025-05-28,Google,Middle East & Africa,Premium,No,18.0,Female
+CU1181,Priya Smith,priya.smith306@yahoo.com,2025-08-01,Referral,Europe,Basic,No,33.0,Female
+CU1184,Ethan Khan,ethan.khan191@company.io,2024-05-04,Organic,North America,basic ,No,37.0,Female
+CU1150,Liam Davis,liam.davis589@yahoo.com,2025-03-06,Referral,North America,Basic,No,56.0,Male
+CU1207,Patricia Jackson,patricia.jackson988@gmail.com,2025-11-09,Facebook,North America,Pro,Yes,18.0,Male
+CU1097,Karen Wilson,karen.wilson800@yahoo.com,2025-07-06,Instagram,Europe,Basic,No,37.0,Male
+CU1094,Linda Martinez,linda.martinez344@outlook.com,2024-12-29,Google,Latin America,Basic,Yes,18.0,Male
+CU1377,William Brown,william.brown454@gmail.com,2025-12-17,Google,,pro,No,40.0,Male
+CU1303,William Moore,william.moore648@outlook.com,2026-04-27,Google,North America,Pro,No,37.0,Female
+CU1122,Wei Lopez,wei.lopez737@company.io,2024-10-04,Instagram,,Basic,No,32.0,Male
+CU1464,Susan Davis,susan.davis275@outlook.com,2026-02-16,Google,North America,BASIC,No,18.0,Female
+CU1078,Jennifer Patel,jennifer.patel589@yahoo.com,2025-09-02,Instagram,,pro,No,37.0,Female
+CU1061,Liam Taylor,liam.taylor122@company.io,2024-09-28,Google,Latin America,Basic,No,31.0,Male
+CU1477,Jessica Patel,jessica.patel841@gmail.com,2024-08-07,Google,Latin America,Pro,No,37.0,Female
+CU1125,James Kowalski,james.kowalski513@outlook.com,2025-05-31,Facebook,North America,Basic,No,46.0,Male
+CU1319,Lisa Jones,lisa.jones823@gmail.com,2025-08-20,Google,Middle East & Africa,Basic,No,49.0,Male
+CU1447,Priya Taylor,priya.taylor552@outlook.com,2025-12-16,LinkedIn,,Pro,No,33.0,Male
+CU1497,Amara Khan,amara.khan717@yahoo.com,2025-09-12,Instagram,Asia-Pacific,PRO,No,26.0,Male
+CU1431,Emma Johnson,emma.johnson958@company.io,2025-11-03,Google,Europe,Basic,No,38.0,Female
+CU1280,Mateo Andersson,mateo.andersson577@company.io,31/31/2025,Organic,Europe, pro,No,32.0,Male
+CU1418,Emma Hernandez,emma.hernandez413@company.io,2025-01-03,Google,Middle East & Africa,Basic,No,42.0,Female
+CU1024,Charles Moore,charles.moore959@company.io,2025-11-20,Google,Asia-Pacific,Pro,No,178.0,Male
+CU1426,Robert Patel,robert.patel490@gmail.com,2024-09-27,Instagram,Asia-Pacific,Basic,Yes,18.0,Male
+CU1357,Mateo Martin,mateo.martin772@gmail.com,2024-12-15,Instagram,North America,Premium,Yes,52.0,Female
+CU1294,Mary Wilson,mary.wilson870@gmail.com,2025-11-25,Instagram,Europe,Pro,No,25.0,Female
+CU1126,Olivia Silva,olivia.silva541@outlook.com,2025-03-15,Organic,,PRO,No,34.0,Female
+CU1416,Yuki Brown,yuki.brown466@yahoo.com,2024-12-08,Google,Europe,Basic,Yes,50.0,Other
+CU1289,Carlos Martin,carlos.martin613@outlook.com,2026-05-23,Instagram,Asia-Pacific,Pro,Yes,27.0,Female
+CU1178,Sofia Wilson,sofia.wilson285_at_company.io,2025-08-17,LinkedIn,North America,Basic,No,,Female
+CU1498,Thomas Andersson,thomas.andersson14@company.io,2024-04-18,Instagram,North America,BASIC,No,41.0,Female
+CU1381,David Jones,david.jones175@outlook.com,2026-04-08,LinkedIn,North America,Basic,No,45.0,Female
+CU1223,Linda Jones,linda.jones468@company.io,2025-03-17,Google,,Basic,Yes,26.0,Female
+CU1359,Ethan Brown,ethan.brown919@gmail.com,2026-03-03,Instagram,Middle East & Africa,Premium,No,43.0,FEMALE
+CU1093,Emma Kowalski,emma.kowalski474@gmail.com,2026-05-03,Google,North America,Premium,Yes,28.0,Male
+CU1069,Yuki Andersson,yuki.andersson355@company.io,2024-07-03,Google,,Basic,Yes,27.0,Male
+CU1036,Emma Miller,emma.miller948@yahoo.com,2025-03-20,Google,Europe,Basic,No,29.0,Female
+CU1160,Amara Brown,amara.brown758@gmail.com,2025-10-24,Instagram,Europe,Basic,Yes,23.0,Male
+CU1011,Omar Taylor,omar.taylor849@outlook.com,2025-06-10,Referral,,basic ,No,33.0,Female
+CU1144,Elizabeth Anderson,elizabeth.anderson674@outlook.com,2025-11-18,Google,Latin America,Pro,Yes,36.0,Female
+CU1361,Lisa Wilson,lisa.wilson468@gmail.com,2024-12-18,Organic,Latin America,Basic,No,18.0,Female
+CU1127,Michael Chen,michael.chen620@outlook.com,2025-10-13,Referral,,Pro,Yes,28.0,Female
+CU1292,Fatima Thomas,fatima.thomas140@outlook.com,2025-05-05,Organic,North America,Pro,No,51.0,Female
+CU1009,Patricia Lee,patricia.lee628@gmail.com,2023-03-27,Google,North America,Basic,No,26.0,Female
+CU1382,Omar Okafor,omar.okafor548@outlook.com,2026-04-01,Google,North America,Pro,No,31.0,Female
+CU1176,Jennifer Jackson,jennifer.jackson420@outlook.com,2025-07-01,Instagram,Asia-Pacific,Basic,No,59.0,Male
+CU1231,Elizabeth Jackson,elizabeth.jackson801@outlook.com,2025-02-18,Instagram,North America,Premium,Yes,43.0,Other
+CU1210,Lisa Brown,lisa.brown786@gmail.com,2026-05-03,Referral,Europe,Pro,No,32.0,Male
+CU1128,William Taylor,william.taylor796@gmail.com,2025-05-09,Organic,Europe,Pro,No,53.0,MALE
+CU1143,Zara Moore,zara.moore177@gmail.com,2025-09-14,Google,North America,Pro,No,32.0,Male
+CU1241,William Moore,,2025-09-13,LinkedIn,Asia-Pacific,Basic,Yes,26.0,Male
+CU1007,Elena Martin,elena.martin606@outlook.com,2025-07-20,Referral,North America,BASIC,No,30.0,MALE
+CU1298,Olivia Rodriguez,olivia.rodriguez114@outlook.com,2025-10-29,Referral,Middle East & Africa,Basic,No,52.0,Male
+CU1254,Jessica Lee,jessica.lee398@gmail.com,2025-09-24,Google,Europe,Premium,No,35.0,Male
+CU1378,William Tanaka,william.tanaka638@gmail.com,2025-09-04,Facebook,Europe,Basic,Yes,40.0,Female
+CU1342,Mateo Khan,mateo.khan839@gmail.com,2026-04-21,Instagram,Europe,Basic,No,39.0,Male
+CU1008,Patricia Williams,patricia.williams447@company.io,2025-08-31,Google,Latin America,Pro,Yes,28.0,Female
+CU1156,James Ali,james.ali729@yahoo.com,2025-04-04,Instagram,North America,Basic,No,36.0,Other
+CU1027,Liam Brown,liam.brown720@gmail.com,2025-12-29,Instagram,, Basic,Yes,36.0,male 
+CU1266,Zara Wilson,zara.wilson678@gmail.com,2024-12-08,Google,Europe,Pro,No,55.0,Male
+CU1064,Michael Khan,michael.khan468@gmail.com,2024-06-08,LinkedIn,North America,Basic,No,18.0,Male
+CU1255,Mary Rodriguez,mary.rodriguez139@company.io,2025-06-05,Referral,Middle East & Africa,PREMIUM,Yes,32.0,Female
+CU1483,Joseph Lee,joseph.lee432@company.io,2025-12-19,Organic,North America,Pro,Yes,34.0,Male
+CU1153,Jessica Anderson,jessica.anderson324@outlook.com,2025-06-29,Google,Europe,Premium,Yes,25.0,Female
+CU1048,Sofia Patel,sofia.patel656@company.io,2024-10-29,Google,Asia-Pacific,BASIC,Yes,34.0,Female
+CU1208,Omar Novak,omar.novak109@gmail.com,2024-11-17,Referral,Europe,Basic,Yes,24.0,Male
+CU1287,Aisha Garcia,aisha.garcia273@gmail.com,2025-09-23,Facebook,Europe,Pro,Yes,49.0,Male
+CU1001,Charles Miller,charles.miller92@yahoo.com,2025-02-24,Instagram,Middle East & Africa,BASIC,Yes,29.0,Male
+CU1269,Susan Andersson,susan.andersson321@company.io,2025-07-17,Facebook,North America,Pro,Yes,23.0,male 
+CU1265,Aisha Kowalski,aisha.kowalski602@yahoo.com,2026-02-24,Referral,Asia-Pacific,Pro,Yes,55.0,Male
+CU1334,Elizabeth Miller,elizabeth.miller354@yahoo.com,2025-07-25,Google,North America,Pro,Yes,40.0,Female
+CU1341,Wei Brown,wei.brown229@outlook.com,2025-11-28,Google,,Pro,No,48.0,Female
+CU1095,Thomas Brown,thomas.brown199@company.io,2025-05-06,Google,Europe,Basic,No,27.0,Female
+CU1474,Joseph Novak,joseph.novak185@gmail.com,2025-04-23,Google,Europe,Pro,No,,male
+CU1385,Charles Hernandez,charles.hernandez117@company.io,2025-04-28,LinkedIn,Europe,Pro,No,36.0,FEMALE
+CU1324,Wei Andersson,wei.andersson901@yahoo.com,2026-03-22,Facebook,Europe,Basic,Yes,18.0,FEMALE
+CU1116,Sarah Rodriguez,sarah.rodriguez248@outlook.com,2026-02-14,Instagram,Asia-Pacific,basic,No,41.0,Female
+CU1045,Kwame Andersson,kwame.andersson802@yahoo.com,2025-10-24,Organic,Asia-Pacific,PRO,No,,male
+CU1161,Susan Chen,susan.chen599@company.io,2026-01-14,Facebook,Asia-Pacific,Pro,Yes,35.0,Female
+CU1410,Sofia Tanaka,sofia.tanaka29@gmail.com,2026-02-13,Organic,Europe,Premium,No,53.0,Male
+CU1117,Jessica Hernandez,jessica.hernandez182@gmail.com,2024-08-15,Google,Europe,Premium,Yes,18.0,Female
+CU1288,Zara Wilson,zara.wilson79@outlook.com,2025-12-26,Instagram,North America,Premium,Yes,26.0,Male
+CU1077,Wei Johnson,wei.johnson986@outlook.com,2025-05-27,Referral,North America,pro,No,53.0,Male
+CU1460,Michael Smith,michael.smith117@yahoo.com,2024-05-11,Google,Europe,Basic,Yes,24.0,Female
+CU1063,Omar Patel,omar.patel762@yahoo.com,2025-09-18,Google,Asia-Pacific,Basic,Yes,28.0,Female
+CU1401,Omar Hernandez,omar.hernandez164@gmail.com,2025-05-09,Google,,Pro,No,,Male
+CU1397,Fatima Johnson,fatima.johnson389@outlook.com,2025-02-15,Instagram,Europe,Premium,No,39.0,Male
+CU1230,Linda Anderson,linda.anderson314@yahoo.com,2025-05-14,Referral,Asia-Pacific,basic ,Yes,29.0,Male
+CU1297,Karen Hernandez,karen.hernandez290@yahoo.com,2026-04-25,Google,,Premium,Yes,35.0,Male
+CU1186,Zara Silva,zara.silva554@yahoo.com,2026-03-24,Facebook,Europe,Pro,Yes,27.0,Female
+CU1346,Wei Williams,wei.williams679@yahoo.com,2025-04-19,Facebook,Europe,Pro,No,36.0,Male
+CU1199,Omar Martin,omar.martin698@yahoo.com,2024-08-11,Google,Asia-Pacific,Premium,No,37.0,Male
+CU1351,Jessica Rodriguez,jessica.rodriguez571@company.io,2025-09-11,LinkedIn,Asia-Pacific,Basic,No,18.0,Female
+CU1121,Ethan Ali,ethan.ali768@gmail.com,2025-10-30,Organic,North America,Pro,Yes,18.0,Female
+CU1480,Jessica Anderson,jessica.anderson412@outlook.com,2026-03-13,Referral,Asia-Pacific,Pro,Yes,32.0,Male
+CU1443,Charles Martin,charles.martin570@gmail.com,2025-12-08,Facebook,Asia-Pacific,Basic,No,49.0,Male
+CU1307,Ingrid Khan,ingrid.khan815@company.io,2025-10-29,Google,North America,Pro,No,30.0,Male
+CU1473,Charles Wilson,charles.wilson314@outlook.com,2025-10-31,Instagram,North America,Pro,Yes,31.0,Female
+CU1158,Robert Novak,robert.novak56@yahoo.com,2026-03-21,Instagram,North America,Pro,No,38.0, female
+CU1085,Michael Wilson,michael.wilson506@yahoo.com,2025-06-29,Organic,Europe,PRO,No,39.0,Male
+CU1225,David Patel,david.patel611@company.io,2024-02-03,Google,North America,Pro,Yes,26.0,Female
+CU1262,Aisha Anderson,aisha.anderson792@yahoo.com,2025-11-30,LinkedIn,Middle East & Africa,Pro,No,26.0,Female
+CU1331,Susan Miller,,2024-08-14,Google,Asia-Pacific,Basic,Yes,29.0,Male
+CU1434,Mary Lee,mary.lee863@company.io,2025-03-17,Organic,Middle East & Africa,Pro,Yes,29.0, female
+CU1076,Lisa Lopez,lisa.lopez153_at_company.io,2024-08-02,Referral,Europe,Pro,Yes,18.0,Female
+CU1143,Zara Moore,zara.moore177@gmail.com,2025-09-17,Google,North America,Pro,No,32.0,Male
+CU1425,Amara Smith,amara.smith877@yahoo.com,2026-02-01,Instagram,,Basic,Yes,18.0,Female
+CU1087,William Jones,william.jones569@company.io,2025-10-15,Google,North America,Pro,Yes,31.0,FEMALE
+CU1498,Thomas Andersson,thomas.andersson14@company.io,2024-05-03,Instagram,North America,BASIC,No,41.0,Female
+CU1182,Omar Moore,omar.moore745@outlook.com,2026-01-27,Instagram,North America,Basic,Yes,29.0,Female
+CU1105,David Patel,david.patel545@outlook.com,2025-03-28,Google,North America,Pro,No,39.0,Female
+CU1409,Aisha Okafor,aisha.okafor897@outlook.com,2026-01-28,Instagram,North America,Pro ,Yes,37.0,Male
+CU1049,Sofia Wilson,sofia.wilson699@company.io,2024-12-30,Referral,Europe,Basic,Yes,31.0,Male
+CU1390,Patricia Martinez,patricia.martinez977@company.io,2025-08-07,Facebook,Europe,Premium,No,43.0,Female
+CU1005,Jessica Anderson,jessica.anderson981@gmail.com,2026-02-12,Google,North America,basic,No,29.0,Female
+CU1017,Kwame Jones,kwame.jones748@outlook.com,2026-04-23,Instagram,Asia-Pacific,Basic,No,47.0,Female
+CU1234,Kwame Chen,kwame.chen290@yahoo.com,2025-08-13,Organic,North America,Pro,No,24.0,Male
+CU1413,Carlos Brown,carlos.brown42@gmail.com,2025-05-15,Google,Europe,Basic,Yes,33.0,Other
+CU1361,Lisa Wilson,lisa.wilson468@gmail.com,2024-12-24,Organic,Latin America,Basic,No,18.0,Female
+CU1106,Kwame Lopez,kwame.lopez792@outlook.com,2025-07-01,Google,Middle East & Africa,premium,No,47.0,Female
+CU1134,Thomas Silva,thomas.silva307@yahoo.com,2025-10-18,Instagram,North America,Premium,Yes,35.0,Male
+CU1414,Ethan Khan,ethan.khan57@gmail.com,2025-06-16,Instagram,Europe,Basic,No,29.0,Male
+CU1226,Amara Okafor,amara.okafor140@outlook.com,2026-04-20,Google,Middle East & Africa,pro,No,45.0,Male
+CU1214,Omar Anderson,omar.anderson202@company.io,2025-11-11,Instagram,North America,Basic,No,39.0,Male
+CU1190,Kwame Miller,kwame.miller317@company.io,2025-12-01,Google,Europe,premium ,No,34.0,Male
+CU1454,Priya Jones,priya.jones509@gmail.com,2024-04-15,LinkedIn,Asia-Pacific,basic,No,35.0,Male
+CU1320,Lisa Lopez,lisa.lopez806@company.io,2025-09-20,Instagram,Europe,basic,No,32.0,Male
+CU1282,Mateo Tanaka,mateo.tanaka793@outlook.com,2025-09-01,Google,Asia-Pacific,Basic,Yes,34.0,MALE
+CU1029,Thomas Brown,thomas.brown271@company.io,2024-09-30,Google,Europe,Basic,Yes,20.0,Male
+CU1169,Olivia Martinez,olivia.martinez937@outlook.com,2026-03-01,Google,,Basic,No,32.0,MALE
+CU1180,Mateo Novak,mateo.novak98@gmail.com,2025-12-06,Organic,North America,Basic,No,43.0,Female
+CU1100,David Anderson,david.anderson452@gmail.com,2025-09-10,Referral,North America,Premium,Yes,29.0,Female
+CU1197,Robert Jones,,2024-11-25,Facebook,North America,Premium,No,43.0,Female
+CU1209,Wei Kowalski,wei.kowalski505@outlook.com,2025-07-31,Google,Asia-Pacific, Basic,Yes,32.0,MALE
+CU1135,Elena Martinez,elena.martinez952@yahoo.com,2026-09-19,Google,Asia-Pacific,Pro,No,26.0,Male
+CU1485,Charles Lee,charles.lee130@gmail.com,2025-04-24,Instagram,North America,Basic,No,21.0, female
+CU1441,Yuki Moore,yuki.moore231@gmail.com,2024-04-04,Instagram,North America,Premium,No,45.0,Female
+CU1198,Joseph Silva,joseph.silva908@company.io,2026-04-12,Referral,Europe,Premium,Yes,59.0,Female
+CU1373,Carlos Jones,carlos.jones780@outlook.com,2025-11-16,Google,Europe,Pro,No,27.0,Female
+CU1166,Susan Davis,susan.davis70@yahoo.com,2025-01-19,Instagram,Europe,Premium,Yes,25.0,Male
+CU1395,Liam Anderson,liam.anderson934@gmail.com,2025-02-21,LinkedIn,Europe,Basic,No,31.0,Male
+CU1136,Susan Martin,susan.martin445@yahoo.com,2025-11-25,Referral,North America,Pro,Yes,32.0,Male
+CU1285,Yuki Williams,yuki.williams808@company.io,2026-08-10,Google,Europe,Pro,Yes,20.0,MALE
+CU1335,Noah Okafor,noah.okafor384@gmail.com,2025-09-18,LinkedIn,Latin America,Pro,No,46.0,Female
+CU1131,Aisha Novak,aisha.novak223@yahoo.com,2025-06-10,Google,North America,Pro,No,21.0,Female
+CU1039,Kwame Novak,kwame.novak415@outlook.com,2026-05-02,Organic,Middle East & Africa,Basic,No,27.0,female
+CU1215,Joseph Jackson,joseph.jackson885@gmail.com,2025-09-21,Instagram,Asia-Pacific,Basic,No,32.0,Female
+CU1043,Jessica Thomas,jessica.thomas531@company.io,2026-03-03,LinkedIn,Europe,Premium,Yes,28.0,MALE
+CU1054,Richard Brown,richard.brown427@yahoo.com,2025-07-20,Organic,North America,Basic,Yes,-3.0,Male
+CU1489,Ethan Miller,ethan.miller160@yahoo.com,2025-12-14,Google,,Premium,Yes,18.0,Female
+CU1299,Jennifer Khan,jennifer.khan989@outlook.com,2024-10-04,Google,Middle East & Africa,Basic,Yes,28.0,Male
+CU1469,John Taylor,john.taylor422_at_outlook.com,2026-01-13,Instagram,North America,Basic,Yes,24.0,Female
+CU1304,Yuki Thomas,yuki.thomas647@company.io,2025-07-21,Google,Europe,Pro ,Yes,47.0,Female
+CU1035,Michael Jones,michael.jones461@yahoo.com,2024-10-20,Google,North America,PRO,No,,Male
+CU1315,David Patel,david.patel301@company.io,2025-09-09,Organic,Asia-Pacific,Pro,Yes,45.0,Female
+CU1399,Amara Patel,amara.patel742@gmail.com,2025-09-10,Instagram,North America,Pro,No,35.0,Male
+CU1309,Karen Garcia,karen.garcia152@gmail.com,2024-12-10,LinkedIn,,Basic,Yes,24.0,Female
+CU1276,Olivia Williams,olivia.williams501@gmail.com,2025-06-15,Google,Europe,basic,Yes,34.0,Female
+CU1124,Mateo Williams,mateo.williams414@outlook.com,2024-05-09,Facebook,Latin America,Basic,Yes,37.0,Male
+CU1142,Patricia Moore,patricia.moore175@yahoo.com,2024-12-18,Instagram,North America,Pro,Yes,18.0,Male
+CU1110,Olivia Martin,olivia.martin651@company.io,2026-03-24,Instagram,Middle East & Africa,basic ,No,31.0,Male
+CU1323,Ava Johnson,ava.johnson508@outlook.com,not_a_date,Instagram,Europe,Basic,Yes,38.0,Female
+CU1332,Karen Chen,karen.chen333@gmail.com,2024-09-13,Google,Europe,BASIC,Yes,27.0,Female
+CU1393,David Moore,david.moore991@outlook.com,2026-03-21,Google,North America,Basic,Yes,48.0,Male
+CU1450,Elizabeth Anderson,elizabeth.anderson506@outlook.com,2025-07-28,Google,Asia-Pacific,Basic,Yes,35.0,female
+CU1107,Yuki Novak,yuki.novak362_at_company.io,2025-04-12,LinkedIn,Middle East & Africa,Basic,Yes,18.0,Male
+CU1457,Sofia Tanaka,sofia.tanaka820@company.io,2025-04-04,Google,Europe,Basic,No,,Male
+CU1012,Yuki Ali,,2024-05-07,Facebook,North America,PREMIUM,No,38.0,Male
+CU1272,Zara Miller,zara.miller440@company.io,2026-04-19,Google,Asia-Pacific,Pro,No,18.0,Female
+CU1047,Jessica Andersson,jessica.andersson242@outlook.com,2025-09-21,Organic,,PRO,Yes,18.0,Male
+CU1203,Liam Chen,liam.chen360_at_gmail.com,2025-02-22,Instagram,Latin America,Premium,Yes,47.0,Male
+CU1438,Robert Martin,robert.martin660@yahoo.com,2025-11-08,Referral,, pro,No,,Female
+CU1119,Zara Brown,zara.brown712@gmail.com,2026-03-11,LinkedIn,North America,Basic,No,32.0,FEMALE
+CU1021,Carlos Jackson,carlos.jackson947@outlook.com,2025-01-28,LinkedIn,North America,Premium,No,18.0, female
+CU1402,Omar Johnson,omar.johnson79@company.io,2025-05-04,LinkedIn,North America,Pro,No,36.0, female
+CU1083,Susan Novak,susan.novak570@gmail.com,2025-04-25,Google,Asia-Pacific,Basic,No,31.0,Male
+CU1130,Charles Miller,charles.miller917@yahoo.com,2025-09-30,LinkedIn,North America,Basic,Yes,43.0, female
+CU1458,Joseph Johnson,joseph.johnson935@gmail.com,2025-09-29,Instagram,North America,Basic,No,52.0,Female
+CU1495,Amara Chen,amara.chen273@company.io,2024-06-29,LinkedIn,North America,Basic,Yes,21.0,Female
+CU1329,Wei Johnson,wei.johnson492@company.io,2025-05-29,Referral,Asia-Pacific,Basic,Yes,28.0,Female
+CU1229,Sarah Johnson,sarah.johnson372@outlook.com,2025-04-17,Referral,Europe,Premium,Yes,35.0,female
+CU1242,Zara Williams,zara.williams626@outlook.com,2025-02-10,Facebook,Europe,Premium,Yes,36.0,Male
+CU1286,James Miller,james.miller686_at_outlook.com,2025-03-01,Referral,Asia-Pacific,basic ,Yes,32.0,Male
+CU1123,Michael Garcia,michael.garcia564@outlook.com,2024-12-19,Organic,Europe,Pro ,Yes,36.0,Female
+CU1033,Noah Chen,noah.chen53@gmail.com,2024-08-25,Google,Europe,Basic,No,32.0,Male
+CU1487,Aisha Jackson,aisha.jackson643@outlook.com,2024-10-07,Instagram,Latin America,Pro,Yes,40.0,Male
+CU1004,Priya Anderson,priya.anderson505@yahoo.com,2025-12-20,Referral,Asia-Pacific,BASIC,No,40.0,Male
+CU1411,William Williams,william.williams506@company.io,2025-03-10,Facebook,Asia-Pacific,Basic,Yes,18.0,Female
+CU1019,Ava Johnson,ava.johnson475@yahoo.com,2026-02-25,Organic,North America,Basic,Yes,32.0,Male
+CU1219,Olivia Martin,olivia.martin562@outlook.com,2025-06-01,Instagram,Asia-Pacific,Pro,No,40.0,Female
+CU1379,John Rodriguez,john.rodriguez856@yahoo.com,2025-08-26,LinkedIn,Latin America,Basic,No,36.0,Male
+CU1067,Joseph Lopez,joseph.lopez768@gmail.com,2026-02-24,Facebook,Latin America,Pro,Yes,43.0,Female
+CU1419,John Andersson,john.andersson708@yahoo.com,2025-11-30,Instagram,North America,Pro,Yes,33.0,Male
+CU1356,Charles Tanaka,charles.tanaka462@gmail.com,2025-09-21,Instagram,,basic ,Yes,33.0,Female
+CU1149,Omar Martinez,omar.martinez927@company.io,2024-09-18,Instagram,Middle East & Africa,Pro ,No,19.0,Male
+CU1224,Amara Moore,amara.moore338@outlook.com,2024-10-24,Referral,North America,Pro,No,34.0,Female
+CU1247,Priya Patel,priya.patel554@company.io,2025-06-22,Referral,North America,Pro,Yes,45.0,Female
+CU1455,Zara Jones,,2025-07-02,Google,Latin America,premium,Yes,51.0,Male
+CU1151,Mary Novak,mary.novak730@yahoo.com,2025-12-03,Google,Latin America,Basic,Yes,141.0,Female
+CU1494,Linda Martinez,linda.martinez271@gmail.com,2025-10-16,Facebook,North America,Pro,Yes,40.0,Female
+CU1317,Patricia Silva,patricia.silva672@gmail.com,2025-10-18,Referral,Asia-Pacific,Basic,Yes,40.0,Male
+CU1475,Linda Chen,,2025-05-27,LinkedIn,Europe,Pro,Yes,22.0,Female
+CU1291,Sarah Okafor,sarah.okafor145@outlook.com,2026-04-18,Referral,Europe,Pro,Yes,24.0,male 
+CU1233,Amara Miller,amara.miller464@outlook.com,2025-04-10,Google,,Premium,No,28.0,Male
+CU1010,Yuki Jackson,yuki.jackson295@gmail.com,2024-08-28,Instagram,Europe,Basic,Yes,23.0,Male
+CU1279,Mary Wilson,mary.wilson745@company.io,2024-03-31,Google,North America,Pro,No,,Female
+CU1071,Sarah Davis,sarah.davis178@company.io,2024-12-05,Facebook,Latin America,Basic,Yes,23.0,Male
+CU1252,Ethan Taylor,ethan.taylor188@outlook.com,2025-07-25,Referral,Asia-Pacific,Basic,Yes,29.0,Male
+CU1092,Jennifer Taylor,jennifer.taylor163@outlook.com,2025-07-31,Google,Latin America,Pro,No,40.0,Male
+CU1493,David Chen,david.chen205@gmail.com,2025-08-01,Instagram,Middle East & Africa,Premium,Yes,46.0,Male
+CU1349,Priya Anderson,priya.anderson643@yahoo.com,2025-12-15,Google,Asia-Pacific,Basic,Yes,0.0,Male
+CU1415,Carlos Chen,carlos.chen500@outlook.com,2025-12-19,Google,Middle East & Africa,Pro ,Yes,37.0,Male
+CU1374,Noah Lee,noah.lee656@yahoo.com,2025-01-24,LinkedIn,North America,Pro,Yes,47.0,Male
+CU1400,Ingrid Martinez,,2026-02-20,Organic,North America,Premium,No,57.0,Female
+CU1192,Richard Taylor,richard.taylor1@outlook.com,2025-11-23,Organic,,Pro,Yes,25.0,Female
+CU1257,Thomas Taylor,thomas.taylor369_at_outlook.com,2025-10-17,Instagram,,Basic,No,22.0,Female
+CU1496,Patricia Novak,patricia.novak925@gmail.com,2026-04-14,LinkedIn,North America,Pro,Yes,46.0,Other
+CU1339,Sofia Rodriguez,sofia.rodriguez764@yahoo.com,2026-04-13,Google,,Basic,No,23.0,Female
+CU1127,Michael Chen,michael.chen620@outlook.com,2025-11-01,Referral,,Pro,Yes,28.0,Female
+CU1195,Jennifer Ali,jennifer.ali381@gmail.com,2024-05-15,Instagram,North America,Premium,No,46.0,Female
+CU1343,Ethan Johnson,ethan.johnson188@gmail.com,2026-03-17,Organic,North America,Basic,Yes,35.0,Female
+CU1137,Emma Chen,emma.chen770@gmail.com,2025-05-31,Instagram,Europe,Pro,Yes,19.0,Female
+CU1260,Jennifer Hernandez,jennifer.hernandez21@yahoo.com,2026-04-17,Referral,,Premium,No,40.0,Female
+CU1038,Aisha Novak,aisha.novak384@outlook.com,2025-04-15,Google,North America,Premium,No,44.0,Male
+CU1462,James Brown,james.brown44@outlook.com,2025-12-24,Organic,Europe,BASIC,Yes,31.0,Female
+CU1201,Sofia Miller,sofia.miller315@company.io,2024-12-16,Facebook,Latin America,Basic,Yes,19.0,female
+CU1482,Robert Patel,robert.patel457@company.io,2024-10-17,Google,North America,Premium,Yes,26.0,Female
+CU1290,Aisha Lee,aisha.lee71@yahoo.com,2025-04-23,Google,,basic,No,40.0,Female
+CU1448,Lisa Garcia,lisa.garcia500@company.io,2026-02-02,Google,North America,Basic,No,31.0,Male
+CU1189,Carlos Khan,carlos.khan772@company.io,2026-01-08,Organic,Europe,Basic,No,44.0,Male
+CU1251,Amara Wilson,amara.wilson93@company.io,2025-01-26,Google,,Basic,Yes,24.0,Female
+CU1112,Susan Andersson,susan.andersson99@outlook.com,2025-10-12,Google,Asia-Pacific,Pro,No,59.0,Female
+CU1437,Linda Anderson,linda.anderson131@company.io,2025-02-26,Facebook,Europe,Pro,Yes,27.0,male
+CU1183,Patricia Garcia,patricia.garcia750@company.io,2026-05-30,Referral,Asia-Pacific,Basic,No,30.0,Female
+CU1152,Omar Rodriguez,omar.rodriguez454@gmail.com,2025-07-17,Google,Europe,Basic,Yes,42.0,Male
+CU1312,John Wilson,john.wilson142@yahoo.com,2025-08-22,Facebook,Asia-Pacific, pro,Yes,27.0,Male
+CU1325,William Patel,william.patel187@company.io,2025-12-24,Instagram,Middle East & Africa,Premium,No,,Male
+CU1191,Mary Ali,mary.ali946@company.io,2025-06-27,Google,Middle East & Africa,Pro,Yes,36.0,Male
+CU1044,Carlos Martin,carlos.martin391@gmail.com,2025-12-10,Instagram,North America,Pro,Yes,33.0,Female
+CU1444,Charles Jones,charles.jones77@gmail.com,2024-05-10,Google,,Basic,No,43.0,Female
+CU1275,Robert Okafor,robert.okafor657@gmail.com,2026-04-10,Google,,Basic,Yes,20.0,Male
+CU1006,Thomas Okafor,thomas.okafor321_at_gmail.com,2026-02-09,Google,,basic ,No,38.0,Male
+CU1250,Liam Martin,liam.martin436@outlook.com,2025-05-20,Instagram,North America,premium,No,37.0,Female
+CU1311,Aisha Thomas,aisha.thomas701@company.io,2025-09-17,Google,Europe, pro,No,26.0,Female
+CU1075,Carlos Tanaka,carlos.tanaka826@gmail.com,2025-09-12,Organic,North America,Pro,Yes,44.0,Male
+CU1000,Patricia Tanaka,patricia.tanaka654@outlook.com,2025-10-12,Google,Europe,Pro,No,42.0,Female
+CU1428,Jennifer Brown,jennifer.brown46@gmail.com,2025-09-20,LinkedIn,Europe,Premium,No,40.0,Female
+CU1391,Amara Johnson,amara.johnson742@gmail.com,2025-11-28,Instagram,Asia-Pacific,Premium,No,34.0,Male
+CU1383,Mary Hernandez,mary.hernandez387@outlook.com,2025-01-02,Instagram,Middle East & Africa,Premium,Yes,56.0,Male
+CU1432,Thomas Garcia,thomas.garcia514@company.io,2026-03-05,Google,North America,Basic,No,23.0,Female
+CU1068,Charles Davis,charles.davis128@gmail.com,2025-01-20,Google,North America,Premium,No,32.0,Female
+CU1486,Yuki Taylor,yuki.taylor694@yahoo.com,2025-06-03,Instagram,Europe,Premium,Yes,150.0,Male
+CU1167,Sofia Anderson,sofia.anderson314@company.io,2025-03-23,Organic,Middle East & Africa,Basic,Yes,24.0,Male
+CU1392,Jessica Smith,jessica.smith728@yahoo.com,2025-04-11,Google,Asia-Pacific,Premium,No,55.0,Male
+CU1218,Jessica Miller,jessica.miller409@gmail.com,2025-10-24,Organic,Europe,Basic,Yes,61.0,Other
+CU1042,Kwame Thomas,kwame.thomas14@gmail.com,2024-07-27,Referral,,Pro,Yes,22.0,Male
+CU1366,William Lopez,william.lopez7@outlook.com,2025-10-14,Google,Asia-Pacific,Pro,Yes,33.0,Other
+CU1345,Zara Chen,zara.chen212@gmail.com,2025-01-02,Google,,Pro,No,37.0,Male
+CU1072,Susan Jones,susan.jones37@company.io,2025-09-21,Instagram,Europe,Pro,Yes,34.0,Other
+CU1023,Karen Thomas,karen.thomas165@outlook.com,2025-09-25,Instagram,Asia-Pacific,Basic,No,,Female
+CU1398,Emma Lopez,emma.lopez256@gmail.com,2025-11-15,Organic,Latin America,Pro,No,51.0,Female
+CU1185,Lisa Wilson,lisa.wilson849@yahoo.com,2025-04-29,Facebook,Asia-Pacific,Basic,Yes,24.0,Male
+CU1348,Ingrid Martinez,ingrid.martinez936@company.io,2026-10-29,Instagram,Asia-Pacific,Pro,Yes,40.0,Male
+CU1103,Carlos Khan,carlos.khan114@outlook.com,2024-05-23,Google,North America,Basic,Yes,18.0,Other
+CU1407,Mateo Garcia,mateo.garcia272@gmail.com,2025-03-22,Organic,Europe,Basic,Yes,18.0,Male
+CU1211,David Andersson,david.andersson807@company.io,2025-08-19,Facebook,, Basic,Yes,,Male
+CU1131,Aisha Novak,aisha.novak223@yahoo.com,2025-06-20,Google,North America,Pro,No,21.0,Female
+CU1196,Liam Lee,liam.lee862@gmail.com,2026-03-14,Organic,Middle East & Africa,Basic,Yes,30.0,Female
+CU1175,Jennifer Rodriguez,jennifer.rodriguez275@gmail.com,2025-10-06,Google,,Basic,No,35.0,Male
